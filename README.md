@@ -7,8 +7,8 @@ cd "$env:UserProfile"
 
 ```sh
 # Creates a new Music folder and navigates to it
-mkdir Music
-cd Music
+mkdir "My Musics"
+cd "My Musics"
 ```
 
 ```sh
